@@ -75,8 +75,3 @@ However, the choice between them depends on the graph’s density and structure:
 - Use **Prim’s** for dense graphs (many edges).  
 
 This project enhanced understanding of **graph theory**, **greedy algorithms**, and **time complexity analysis** in real-world applications of data structures.
-
-
-
-
-### 4.1 Sample Output
