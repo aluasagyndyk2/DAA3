@@ -1,6 +1,6 @@
-# 🧩 Minimum Spanning Tree (MST) Algorithms Comparison
+#  Minimum Spanning Tree (MST) Algorithms Comparison
 
-## 📘 1. Introduction
+##  1. Introduction
 This project focuses on the implementation and comparison of two well-known Minimum Spanning Tree (MST) algorithms: **Kruskal’s Algorithm** and **Prim’s Algorithm**.  
 The main objective is to analyze how these algorithms perform in terms of **time efficiency**, **implementation complexity**, and **suitability for different types of graphs**.
 
@@ -8,7 +8,7 @@ A **Minimum Spanning Tree** of a connected, weighted, and undirected graph is a 
 
 ---
 
-## 🎯 2. Objectives
+##  2. Objectives
 The key objectives of this project are:
 1. To understand the working principles of MST algorithms (Kruskal and Prim).  
 2. To implement both algorithms in **Java**.  
@@ -28,7 +28,7 @@ The key objectives of this project are:
 
 ---
 
-## 📊 4. Results and Analysis
+##  4. Results and Analysis
 --- Kruskal's MST ---
 Edges in MST:
 A - C (3)
@@ -60,7 +60,7 @@ Execution Time: 0.0018 sec
 
 ---
 
-## 🧠 5. Interpretation
+##  5. Interpretation
 From the experimental results, it can be observed that:
 - **Prim’s algorithm** tends to perform slightly faster on **dense graphs** due to its vertex-based selection strategy.  
 - **Kruskal’s algorithm** performs well on **sparse graphs**, as fewer edges need to be sorted.  
@@ -68,7 +68,7 @@ From the experimental results, it can be observed that:
 
 ---
 
-## ✅ 6. Conclusion
+##  6. Conclusion
 Both **Kruskal’s** and **Prim’s** algorithms efficiently construct the Minimum Spanning Tree for a given graph.  
 However, the choice between them depends on the graph’s density and structure:
 - Use **Kruskal’s** for sparse graphs (fewer edges).  
